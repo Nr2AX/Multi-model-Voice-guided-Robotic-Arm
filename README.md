@@ -11,17 +11,6 @@ This project utilizes Large Language Models (LLMs) to intelligently recognize te
 - **Remote Storage:** Results uploaded to an Ubuntu server
 
 
-## Installation
-```bash
-# Clone this repository
-$ git clone https://github.com/your-username/robotic-arm.git
-
-# Install dependencies
-$ pip install -r requirements.txt
-
-# Run the main script
-$ python main.py
-```
 
 ## Usage
 1. Ensure your environment is set up and dependencies are installed.
